@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+recordings/
+app/recordings/
+app/package_self_test.json
+gui_smoke.png
+gui_smoke.json
+capture_replay_validation.json

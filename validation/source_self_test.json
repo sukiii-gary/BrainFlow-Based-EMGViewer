@@ -1,0 +1,15 @@
+{
+  "python": "3.12.13 | packaged by conda-forge | (main, Aug 11 2026, 10:18:27) [MSC v.1944 64 bit (AMD64)]",
+  "opencv": "4.10.0",
+  "pyserial": "3.5",
+  "qt": "6.11.0",
+  "checks": {
+    "opencv_mp4_roundtrip": true,
+    "brainflow_synthetic": true,
+    "udp_loopback_and_microvolts": true
+  },
+  "synthetic_shape": [
+    8,
+    25
+  ]
+}

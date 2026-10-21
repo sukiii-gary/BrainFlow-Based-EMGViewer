@@ -1,0 +1,8 @@
+{
+  "title": "EMG Viewer UDP Sync + Camera + Impedance — OpenBCI + Delsys",
+  "connected": true,
+  "streaming": true,
+  "data_verified": true,
+  "channels": 8,
+  "status": "采集中 (数据已验证)"
+}

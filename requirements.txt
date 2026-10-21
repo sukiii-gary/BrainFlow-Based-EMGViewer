@@ -1,0 +1,11 @@
+# 2026-10-16 已验证环境的直接运行依赖快照；Python 3.12 / Windows x64。
+brainflow==5.22.2
+numpy==1.26.4
+scipy==1.17.1
+PyQt6==6.11.0
+pyqtgraph==0.14.0
+pyserial==3.5
+matplotlib==3.11.1
+pandas==3.0.5
+opencv-python==4.10.0.84
+h5py==3.16.0

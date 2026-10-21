@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-16",
+  "full_unittest": {
+    "passed": true,
+    "tests": 247,
+    "seconds": 51.168
+  },
+  "source_self_test": {
+    "opencv_mp4_roundtrip": true,
+    "brainflow_synthetic": true,
+    "udp_loopback_and_microvolts": true
+  },
+  "synthetic_gui": {
+    "data_verified": true,
+    "channels": 8
+  },
+  "application_python_files_identical_to_corrected_source": 67,
+  "powershell_scripts_syntax_check": "passed",
+  "new_clean_pip_install_tested": false,
+  "rebuild_during_handoff": false,
+  "existing_corrected_exe": {
+    "file": "EMG_Viewer_UDP_Sync_Camera_Impedance.exe",
+    "sha256": "5e21d3705a170b31dd9de0d51b5aa3279f93c0d8d5d4d07461edcac8d2846631"
+  },
+  "archive_integrity": "testzip + SHA256 verification performed after creation; see external receipt"
+}
